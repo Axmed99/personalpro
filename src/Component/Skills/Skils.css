@@ -1,0 +1,26 @@
+#Skils {
+    padding: 30px;
+    height: 80vh;
+} 
+#Skils div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+  
+.skildiv{
+    margin: 1rem;
+    padding: 1.5rem 2rem;
+    border-radius: 0.5rem;
+    background: #181818;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 300px;
+    height: 200px;
+    
+}
+     
+       
